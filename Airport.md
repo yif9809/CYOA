@@ -1,6 +1,6 @@
 It's vacation time!
 
-You and your frineds arrive at the airport.
+You and your friends arrive at the airport.
 
 ![airport](https://amp.businessinsider.com/images/59fa35564d05ac1f008b535a-750-402.jpg)
 
