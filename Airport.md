@@ -6,4 +6,4 @@ You and your frineds arrive at the airport.
 
 Your flight leaves in 2 hours and you already went through security so you decide to kill some time
 
-[Get some food](Coffee/Coffee.md)
+[Get some food](Coffee.md)
