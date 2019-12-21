@@ -8,6 +8,6 @@ You and your friends decide to talk about the vacation and what you guys want to
 
 Uh Oh! You lost track of time, your plane boards in 2 minutes!
 
-[Run2](https://thumbs.dreamstime.com/b/satisfied-travelers-running-luggage-terminal-hall-full-length-portrait-group-tourist-chasing-each-other-110324541.jpg)
+![Run2](https://thumbs.dreamstime.com/b/satisfied-travelers-running-luggage-terminal-hall-full-length-portrait-group-tourist-chasing-each-other-110324541.jpg)
 
 [RUN!!!](Airplane.md)
