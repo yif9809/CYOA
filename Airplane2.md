@@ -11,3 +11,5 @@ You all settle down and get to your seats
 Oh No! You guys ended up on the wrong flight!
 
 Oh well it's too late now. I guess our vacation is in Alaska now
+
+[Lets go](Alaska.md)
